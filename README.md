@@ -4,6 +4,10 @@ How to setup the face recognition model on python
 # Step 1
 Install the cmake version related to the python version i use 3.8 python so i install cmake 3.26.3 which is capable with my python version the cmake setup will be given in the repository
 
+<a href="https://drive.google.com/file/d/1_s8VNyPiCCy5XFm799_xeVZH476UhDcF/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download-Project-blue?style=for-the-badge" alt="Download Cmake">
+</a>
+
 # Step 2 
 Install the dlib wheel in the python packages using 
 <br><b>pip install (Path of the file).</b> 
